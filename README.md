@@ -4,6 +4,8 @@
 
 - <b>Splunk</b>
   - [Building a Security Monitoring Environment](https://github.com/sdegree1/Building-a-Security-Monitoring-Environment)
+- <b>Microsoft Azure</b>
+  - [Build, Secure, And Protect a Web Application](https://github.com/sdegree1/Build-Secure-and-Protect-a-Web-Application)
 
 <h2> Certificates</h2>
 

@@ -1,4 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Sean! <br/><a href="https://github.com/sdegree1">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/seandegree/"></a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certificates</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/b7d5633f-f495-485e-bdd4-a9ce413fa9cc/public_url)
+- [UNCC Cybersecurity](https://www.credly.com/badges/b9b0772c-4290-42e2-a2d5-74eb808b428b/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/seandegree
 
 <!--
 **sdegree1/sdegree1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +30,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

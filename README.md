@@ -8,6 +8,8 @@
   - [Build, Secure, And Protect a Web Application](https://github.com/sdegree1/Build-Secure-and-Protect-a-Web-Application)
 - <b>Linux</b>
   - [Linux Systems Administration](https://github.com/sdegree1/Linux-Systems-Administration)
+- <b>Linux</b>
+  - [Archiving and Logging Data](https://github.com/sdegree1/Archiving-and-Logging-Data)
 
 <h2> Certificates</h2>
 
